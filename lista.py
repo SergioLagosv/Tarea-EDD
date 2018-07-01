@@ -64,15 +64,4 @@ class lista:
 		return False
 
 
-temp = lista()
-temp.agregar("a","a",123123,"hola@gogel.com")
-temp.agregar("b","ba",123123,"hola@gogel.com")
-temp.agregar("b","b",123123,"hola@gogel.com")
 
-temp.agregar("b","b",123123,"hola@gogel.com")
-temp.agregar("c","c",123123,"hola@gogel.com")
-temp.agregar("d","d",123123,"hola@gogel.com")
-temp.imprimir()
-temp.eliminar("c")
-print("---------------")
-temp.imprimir()
