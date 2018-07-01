@@ -156,31 +156,4 @@ class avl():
             self.root.derecha.buscar(dato)
         return
 
-# temp = avl()
- 
-# temp.agregar(1,2,3,4)
-# temp.agregar(2,3,3,4)
-# temp.agregar(3,6,3,4)
-# temp.agregar(4,8,3,4)
-# temp.agregar(5,1,3,4)
-# temp.agregar(1,2,3,4)
-# temp.agregar(2,4,5,7)
-# temp.agregar(3,1,3,4)
-# temp.agregar(4,7,5,4)
-# temp.agregar(5,5,3,4)
-# temp.agregar(6,8,3,4)
 
-# temp.imprimir()
-
-# print("----------------------")
-
-# temp.buscar(8)
-
-# temp.eliminar(8)
-# temp.eliminar(4)
-# temp.eliminar(5)
-# temp.eliminar(3)
-
-# print("----------------------")
-
-# temp.imprimir()
