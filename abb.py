@@ -36,7 +36,7 @@ class abb():
                 self.buscar_dato(a.izquierda,dato)
                 self.buscar_dato(a.derecha,dato)
 
-    def _eliminar(self, a, dato, cadena):
+    def _eliminar(self,a, dato, cadena):
         if a == None:
             return None
         else:
